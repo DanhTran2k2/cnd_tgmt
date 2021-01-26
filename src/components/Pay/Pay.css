@@ -1,0 +1,125 @@
+
+nav > .nav.nav-tabs{
+
+    border: none;
+      color:#fff;
+      background:#ffffff;
+      border-radius:0;
+      
+  
+  }
+  nav > div a.nav-item.nav-link,
+  nav > div a.nav-item.nav-link.active
+  {
+    border: none;
+      padding: 18px 25px;
+      color:rgb(0, 0, 0);
+      background:#adc9ff;
+      border-radius:0;
+     
+  }
+ 
+  
+  nav > div a.nav-item.nav-link.active:after
+   {
+    content: "";
+    position: relative;
+    bottom: -60px;
+    left: -10%;
+    border: 15px solid transparent;
+    border-top-color:  #1f87dd ;
+  }
+  .tab-content{
+    background: #fdfdfd;
+      line-height: 25px;
+     
+      border-top:1px solid#1f87dd;
+      border-right: 1px solid#1f87dd;
+      padding:15px 15px;
+      display: flex;
+  }
+  
+  nav > div a.nav-item.nav-link:hover,
+  nav > div a.nav-item.nav-link:focus
+  {
+    border: none;
+      background:  #1f87dd;
+      color:#fff;
+      border-radius:0;
+      transition:background 0.20s linear;
+  }
+  .span{
+      display: block;
+  }
+  .pay{
+      margin-top: 50px;
+      margin-left: 400px;
+      margin-right: 400px;
+      margin-bottom: 50px;
+  }
+  .logo-bank{
+      display: block;
+      padding: 5px;
+      border: 1px solid #e8e8e8;
+      margin: 7px 12px;
+      background: white;
+      text-align: center;
+  }
+  .bank{
+      margin: auto;
+  }
+ .form-gr{
+     margin-bottom: 20px;
+     margin-left: 5px;
+ }
+ .btn-submit{
+     width: 40%;
+     height: 40px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-left: 8px;
+     font-size: 16px;
+     font-weight: bold;
+     background-color: #ff8b22;
+     border-color: #ff8b22;
+     
+ }
+ .tragop{
+     margin-left: 20px;
+     color: #1f87dd;
+     font-size: 20px;
+ }
+    .tragop2{
+        margin-left: 20px;
+        color: #426d91;
+    }
+    .qrcode{
+        margin-left: 50px;
+        margin-bottom: 20px;
+        display: flex;
+        
+    }
+    .qrcode2{
+        margin-left: 160px;
+        margin-bottom: 20px;
+        
+    }
+    .mbbank{
+        margin-left: 20px;
+        font-weight: bold;
+    }
+    .mbbank2{
+        margin-right: 90px;
+        font-weight: bold;
+    }
+    .muahang{
+        margin-bottom: 15px;
+        font-weight: lighter;
+        font-size: 20px;
+        color: #426d91;
+    }
+    .payimg{
+        padding: 5px;
+        margin-right: 20px;
+        border-right: 2px solid #1f87dd;
+    }

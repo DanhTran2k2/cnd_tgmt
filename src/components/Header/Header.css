@@ -1,0 +1,63 @@
+.header-top{
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 10px;
+}
+.logoheader{
+  color: rgb(255, 0, 0);
+  font-size: 30px;
+}
+.fa-search{
+  color: rgb(255, 0, 0);
+  
+}
+.search{
+  color:rgb(255, 0, 0);
+  border: none;
+  background: transparent;
+  margin-left: 10px;
+  font-size: 16px;
+  font-style: italic;
+  border-bottom: 1px solid #cecece4a;
+}
+.diachi{
+  color: rgb(255, 0, 0);
+  margin-left: 50px;
+}
+.diachi-text{
+  color: rgb(255, 0, 0);
+}
+.timkiem{
+  display: flex;
+}
+.fa-map-marker{
+  color: rgb(255, 0, 0);
+}
+.f3{
+  
+  color: rgb(255, 0, 0);
+  font-size: 4em;
+}
+.giohang{
+  margin-left: 2px;
+  background: red;
+  border-radius: 50%;
+  width: 18px;
+  font-size: 15px;
+  color: white;
+  position: absolute;
+  text-align: center;
+}
+.header-bottom{
+  background-color:#303032;
+  color: red;
+}
+.bottom{
+  margin-left: 200px;
+  margin-right: 200px;
+  padding:10px;
+}
+.nav-link{
+  color: rgb(255, 255, 255);
+}
+

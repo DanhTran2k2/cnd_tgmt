@@ -1,0 +1,29 @@
+.group{
+    display: flex;
+    flex-wrap: wrap;
+}
+.item{
+    width: 25%;
+    border-right:1px solid #e1e1e1;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.service{
+    background-color:#f7f7f7;
+    padding: 15px 0;
+}
+#service .group .item .flex .img{
+    margin-right: 0px;
+}
+
+.fRobotoB{
+    font-family: bold;
+}
+p{
+    margin: 0;
+    padding: 0;
+
+}

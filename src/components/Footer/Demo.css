@@ -1,0 +1,112 @@
+body{margin-top:20px;
+    background:rgb(251, 251, 251);
+    }
+.image-card{
+    height: 235px;
+    width: 205px;
+}
+.card{
+    height: 345;
+    width: 205px;
+    border: 0px solid;
+    margin-left: 7px;
+    margin-top: 5px;
+    display: block;
+}
+.card-text p{
+    margin-top: 1px;
+    text-align: center;
+}
+.price-text{
+font-family: Roboto;
+font-size: 18px;
+line-height: 21px;
+color: #F80000;
+text-align: center;
+
+}
+.image-vote{
+    height: 18px;
+    float: left;
+}
+.card-body{
+    margin-top: 5px;
+}
+.card-link{
+    margin-bottom: 50px;
+}
+.header-top{
+    background: #F80000;
+}
+.header-top a{
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 15px;
+}
+.logo{
+    height: 18px;
+    margin-bottom: 3px;
+    border-radius: 3px;
+}
+.icons{
+    height: 18px;
+    width: 18px;
+}
+.Sfind{
+    float: left;
+}
+
+.Sfind div{
+    margin-left: 20px;
+ }
+ .Shopping-card{
+     margin-top: 2px;
+     height: 30px;
+     margin-left: 20px;
+     border-radius: 50px;
+ }
+ .form-control{
+     height: 35px;
+ }
+ .input-group-text{
+     height: 35px;
+ }
+ .col-sm-8{
+    text-align: center;
+ }
+ .header-botton{
+     background-color: lightsalmon;
+     color: #ffffff;
+ }
+ .header-botton a{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+.iconlh{
+    height: 35px;
+}
+.listHD{
+    margin-left: 40px;
+    margin-top: -5px;
+    color: #ffffff;
+    font-style: normal;
+}
+.footer-top{
+    background: #F80000;
+}
+.footer-top a{
+    color: #ffffff;
+    margin-left: 15px;
+}
+.panner a{
+    font-weight: bold;
+}
+.panner2 ol{
+    font-weight: bold;
+}
+.panner3 a{
+
+    color: #ffffff;
+}

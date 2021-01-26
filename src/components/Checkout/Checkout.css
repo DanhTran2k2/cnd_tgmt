@@ -1,0 +1,18 @@
+    .thanhtoan{
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    }
+    .dathang{
+        font-size: 10pt;
+    }
+    .boder-gh{
+        border-left: 8px solid #CCC;
+    }
+    .contentt{
+        text-align: center;
+        color: blue;
+        text-transform: uppercase;
+        margin-top: 10px;
+    }
