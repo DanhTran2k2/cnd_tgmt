@@ -27,12 +27,12 @@ class New extends Component {
                                                 <div className="position-relative">
                                                     {/*thumbnail img*/}
                                                     <div className="ratio_right-cover-2 image-wrapper">
-                                                        <a href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/">
+                                                        <a href="">
                                                             <img className="img-fluid" src="https://www.dangquangwatch.vn/upload/article/153054713_doi-nu-cuoi-lay-iphone-12.jpg" alt="simple blog template bootstrap" />
                                                         </a>
                                                     </div>
                                                     <div className="position-absolute p-2 p-lg-3 b-0 w-100 bg-shadow">
-                                                        <a href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/">
+                                                        <a href="">
                                                             <h5 className="h5 text-white my-1">DQW Đổi nụ cười lấy Iphone 12 – Bạn có muốn thử?</h5>
                                                         </a>
                                                     </div>
@@ -45,13 +45,13 @@ class New extends Component {
                                                 <div className="position-relative">
                                                     {/*thumbnail img*/}
                                                     <div className="ratio_right-cover-2 image-wrapper">
-                                                        <a href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/">
+                                                        <a href="">
                                                             <img className="img-fluid" src="https://www.dangquangwatch.vn/upload/article/1564662706_black-friday-sale-30.jpg" alt="bootstrap templates for blog" />
                                                         </a>
                                                     </div>
                                                     <div className="position-absolute p-2 p-lg-3 b-0 w-100 bg-shadow">
 
-                                                        <a href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/">
+                                                        <a href="">
                                                             <h5 className="h5 text-white my-1">Sale sập sàn Black Friday – Giảm ngay 30% đồng hồ chính hãng tại Đăng Quang Watch</h5>
                                                         </a>
                                                     </div>
@@ -64,13 +64,13 @@ class New extends Component {
                                                 <div className="position-relative">
                                                     {/*thumbnail img*/}
                                                     <div className="ratio_right-cover-2 image-wrapper">
-                                                        <a href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/">
+                                                        <a href="">
                                                             <img className="img-fluid" src="https://www.dangquangwatch.vn/upload/article/626473748_but-ky-mon-qua-20-11.jpg" alt="bootstrap blog wordpress theme" />
                                                         </a>
                                                     </div>
                                                     <div className="position-absolute p-2 p-lg-3 b-0 w-100 bg-shadow">
 
-                                                        <a href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/">
+                                                        <a href="">
                                                             <h5 className="h5 text-white my-1">Chọn quà tặng thầy cô nhân ngày 20/11 - nhất định không thể bỏ qua gợi ý này</h5>
                                                         </a>
                                                     </div>
@@ -83,13 +83,13 @@ class New extends Component {
                                                 <div className="position-relative">
                                                     {/*thumbnail img*/}
                                                     <div className="ratio_right-cover-2 image-wrapper">
-                                                        <a href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/">
+                                                        <a href="">
                                                             <img className="img-fluid" src="https://www.dangquangwatch.vn/upload/article/915277470_dong_ho_citizen_chinh_hang.jpg" alt="blog website templates bootstrap" />
                                                         </a>
                                                     </div>
                                                     <div className="position-absolute p-2 p-lg-3 b-0 w-100 bg-shadow">
 
-                                                        <a href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/">
+                                                        <a href="">
                                                             <h5 className="h5 text-white my-1">BST đồng hồ Citizen C7 chính thức có mặt tại Việt Nam</h5>
                                                         </a>
                                                     </div>
